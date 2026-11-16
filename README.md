@@ -1,4 +1,6 @@
-<h1 align="center">🐉 Welut</h1>
+<p align="center">
+  <img src="nik/nik-neon.svg" width="600" alt="Welut"/>
+</p>
 
 ###
 
@@ -17,7 +19,11 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Welut-cor&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Welut-cor&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=0d1117&title_color=c084fc&icon_color=22d3ee&text_color=c9d1d9&ring_color=ec4899" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Welut-cor&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=ffffff&title_color=7c3aed&icon_color=0891b2&text_color=1f2328&ring_color=db2777" />
+    <img alt="Статистика GitHub" src="https://github-readme-stats-fast.vercel.app/api?username=Welut-cor&show_icons=true&hide_border=true&count_private=true&locale=ru&bg_color=ffffff&title_color=7c3aed&icon_color=0891b2&text_color=1f2328&ring_color=db2777" />
+  </picture>
 </p>
 
 ###
