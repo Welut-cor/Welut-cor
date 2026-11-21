@@ -19,11 +19,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" title="HTML5"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" title="CSS"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" title="Three.js"/>
 </div>
 
 ###
